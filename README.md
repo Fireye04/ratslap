@@ -18,6 +18,10 @@ This phase mirrors that of egyptian rat slap.
 
 In the main phase, everyone goes in a circle clockwise placing their top card face up in the center, piling on top of previously placed cards. If a predefined pattern of cards occur, the first player to slap the pile wins those cards. If a player slaps but there is no pattern, they must burn one card from the top of their pile to the center.
 
+#### Winning cards
+
+When a player wins cards, they must place them beside their current deck in a second pile. Only once their active pile is fully depleted, can they shuffle the second pile and use that as their active pile.
+
 #### Patterns
 
 You can choose any combination of card patterns you wish. here are a few examples:
@@ -29,7 +33,7 @@ You can choose any combination of card patterns you wish. here are a few example
 - Add to 10: any pair of cards that adds to a total value of 10.
 - 10: any 10.
 
-# Bluff Phase
+## Bluff Phase
 
 If at any time during the main phase, a face card is drawn, the bluff phase is triggered.
 
@@ -42,20 +46,24 @@ When drawing, each player gets a certain number of cards for free, but all cards
 |Queen | up to 3 |
 |Jack | up to 2 |
 
-When theyre finished, they play their hand face down into the center.
+When theyre finished, they play their hand face down into the center, claiming one of the following:
 
-They must then claim one of the following
 - their face down cards contain a face card.
-- they do not contain a face card.
+- their face down cards do not contain a face card.
 
-Other players have the option to call their bluff by slapping the face down cards and wagering any number of their cards on it. if correct, the caller may take their bluff back along with an equivalent number of cards from the central pile. 
+Other players now have the option to call their bluff by slapping the face down cards and wagering any number of their cards on it. If correct, the caller may take their bluff back along with an equal number of cards from the central pile. If incorrect, the called player gets both the wagered cards and the matched cards from the center.
 
-if not called, the cards are treated as claimed.
+if not called, the cards are treated as claimed. (If the player claimed "face card", they are treated as a face card, otherwise they're treated as a non-face card)
 
-if the played cards do not contain a face card or an ace, the last person who did play a face card takes the deck, and play returns to the alternating slap mode.
+If the played cards are a face card, the next player in turn order must now bluff in the same way.
 
-if they do contain a face card or an ace, the next player in turn order must now bluff in the same way.
+If the played cards are not a face card, the last person who did play a face card takes the full center pile, and play returns to the main phase.
 
-## rats
 
-if a pile with a 2 is called and the player who played it lied, then the liar takes the rest of the pile.
+## Rats
+
+2's and Jokers are considered "Rats".
+
+If a pile containing a rat is called and the player who played it lied, then the liar takes the whole pile as well as the wager, and the game returns to the main phase. This takes precedence over other rules.
+
+Rats only trigger on lies. If the player playing the rat told the truth, their rats are treated as normal non-face cards.
