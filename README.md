@@ -18,10 +18,6 @@ This phase mirrors that of egyptian rat slap.
 
 In the main phase, everyone goes in a circle clockwise placing their top card face up in the center, piling on top of previously placed cards. If a predefined pattern of cards occur, the first player to slap the pile wins those cards. If a player slaps but there is no pattern, they must burn one card from the top of their pile to the center.
 
-#### Winning cards
-
-When a player wins cards, they must place them beside their current deck in a second pile. Only once their active pile is fully depleted, can they shuffle the second pile and use that as their active pile.
-
 #### Patterns
 
 You can choose any combination of card patterns you wish. here are a few examples:
@@ -47,10 +43,10 @@ When drawing, each player gets a certain number of cards for free, but all cards
 |Queen | up to 3 |
 |Jack | up to 2 |
 
-When theyre finished, they play their hand face down into the center, claiming one of the following:
+When they're finished, they play their hand face down into the center, claiming one of the following:
 
-- their face down cards contain a face card.
-- their face down cards do not contain a face card.
+- Their face down cards contain a face card.
+- Their face down cards do not contain a face card.
 
 Other players now have the option to call their bluff by slapping the face down cards and wagering any number of their cards on it. If correct, the caller may take their bluff back along with an equal number of cards from the central pile. If incorrect, the called player gets both the wagered cards and the matched cards from the center.
 
@@ -59,6 +55,10 @@ if not called, the cards are treated as claimed. (If the player claimed "face ca
 If the played cards are a face card, the next player in turn order must now bluff in the same way.
 
 If the played cards are not a face card, the last person who did play a face card takes the full center pile, and play returns to the main phase.
+
+## Winning cards
+
+When a player wins cards from any source, they must place them beside their current deck in a second pile. Only once their active pile is fully depleted, can they shuffle the second pile and use that as their active pile.
 
 
 ## Rats
