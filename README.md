@@ -1,5 +1,11 @@
 # Ratslap clone
 
+## Foreword
+
+Hi! Welcome to my silly little card game! If you happen to play it, please open an issue on this repo or send me a message with any feedback you may have! I'd love to hear your thoughts, and also rather selfishly, I love hearing when people play my games! 
+
+Alright that's all, enjoy the game! 
+
 ## Goal
 
 The goal is to get the most cards. Once you posess the whole deck, you win.
