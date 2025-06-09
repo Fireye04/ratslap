@@ -42,6 +42,7 @@ The next player in order, after the person who drew the face card, draws any num
 When drawing, each player gets a certain number of cards for free, but all cards after that number require them to burn one card from their deck before drawing. To determine the number of free cards any given player gets, check the last visible face card and consult the following graph:
 
 |Last visible face card | Free cards |
+|---|---|
 |King | up to 4 |
 |Queen | up to 3 |
 |Jack | up to 2 |
