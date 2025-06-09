@@ -22,7 +22,7 @@ This game is split into two phases. The main phase and the bluff phase. When in 
 
 This phase mirrors that of egyptian rat slap.
 
-In the main phase, everyone goes in a circle clockwise placing their top card face up in the center, piling on top of previously placed cards. If a predefined pattern of cards occur, the first player to slap the pile wins those cards. If a player slaps but there is no pattern, they must burn one card from the top of their pile to the center.
+In the main phase, everyone goes in a circle clockwise placing their top card face up in the center, piling on top of previously placed cards. If a predefined pattern of cards occur, the first player to slap the pile wins the whole pile. If a player slaps but there is no pattern, they must burn one card from the top of their pile to the center.
 
 #### Patterns
 
