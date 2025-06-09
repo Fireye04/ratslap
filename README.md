@@ -33,25 +33,22 @@ You can choose any combination of card patterns you wish. here are a few example
 
 If at any time during the main phase, a face card is drawn, the bluff phase is triggered.
 
-The next player in order, after the person who drew the face card, draws any number of cards from their deck, one by one, into their hand, hiding them from other players. 
-To determine the number of free cards you get, check the last visible face card and consult the following graph:
+The next player in order, after the person who drew the face card, draws any number of cards from their deck, one by one, into their hand, hiding them from other players.
 
-|Last played face card | Free cards |
+When drawing, each player gets a certain number of cards for free, but all cards after that number require them to burn one card from their deck before drawing. To determine the number of free cards any given player gets, check the last visible face card and consult the following graph:
+
+|Last visible face card | Free cards |
 |King | up to 4 |
 |Queen | up to 3 |
 |Jack | up to 2 |
 
+When theyre finished, they play their hand face down into the center.
 
-you get a certain number of cards for free, but all cards after that number require you to burn one card from your deck before drawing. 
+They must then claim one of the following
+- their face down cards contain a face card.
+- they do not contain a face card.
 
-
-When theyre finished, they play them face down into the center.
-
-They then claim one of the following
-- their face down cards contain a face card or an ace
-- they do not contain a face card or an ace
-
-other players have the option to call their bluff and wager any number of their cards on it. if correct, the caller may take their bluff back along with an equivalent number of cards from the central pile. 
+Other players have the option to call their bluff by slapping the face down cards and wagering any number of their cards on it. if correct, the caller may take their bluff back along with an equivalent number of cards from the central pile. 
 
 if not called, the cards are treated as claimed.
 
